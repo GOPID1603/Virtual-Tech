@@ -5,7 +5,7 @@ import os
 import numpy as np
 
 def main():
-    print("=== CODTECH Internship: Task 3 - Image Classification Model (CNN) ===")
+    print("=== Virtual Technologies Internship: Task 3 - Image Classification Model (CNN) ===")
     
     # 1. Load and prepare the MNIST dataset
     print("Loading MNIST dataset...")

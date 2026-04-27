@@ -45,7 +45,7 @@ def generate_synthetic_data(num_records=1000, output_file='raw_data.csv'):
     return output_file
 
 def main():
-    print("=== CODTECH Internship: Task 1 - Data Pipeline Development ===\n")
+    print("=== Virtual Technologies Internship: Task 1 - Data Pipeline Development ===\n")
     
     # 1. Generate Data
     raw_data_path = generate_synthetic_data()

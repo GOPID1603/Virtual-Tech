@@ -3,7 +3,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 def main():
-    print("=== CODTECH Internship: AI Task 4 - Content-Based Recommendation System ===")
+    print("=== Virtual Technologies Internship: AI Task 4 - Content-Based Recommendation System ===")
     
     # 1. Create a synthetic dataset of movies and their descriptions
     print("Loading movie database...")

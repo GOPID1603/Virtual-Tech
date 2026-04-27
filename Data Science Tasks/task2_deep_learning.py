@@ -5,7 +5,7 @@ import os
 import numpy as np
 
 def main():
-    print("=== CODTECH Internship: Task 2 - Deep Learning Project ===")
+    print("=== Virtual Technologies Internship: Task 2 - Deep Learning Project ===")
     print("TensorFlow Version:", tf.__version__)
     
     # 1. Load and prepare the MNIST dataset

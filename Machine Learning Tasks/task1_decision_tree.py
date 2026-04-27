@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import os
 
 def main():
-    print("=== CODTECH Internship: Task 1 - Decision Tree Implementation ===")
+    print("=== Virtual Technologies Internship: Task 1 - Decision Tree Implementation ===")
     
     # 1. Load Data
     print("Loading Breast Cancer dataset...")

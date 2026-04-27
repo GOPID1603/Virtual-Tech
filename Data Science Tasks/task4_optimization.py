@@ -2,7 +2,7 @@ import pulp
 import pandas as pd
 
 def main():
-    print("=== CODTECH Internship: Task 4 - Optimization Model ===")
+    print("=== Virtual Technologies Internship: Task 4 - Optimization Model ===")
     print("Solving a Production Planning Problem using PuLP\n")
     
     # --- Problem Setup ---

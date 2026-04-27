@@ -5,7 +5,7 @@ import os
 import numpy as np
 
 def main():
-    print("=== CODTECH Internship: AI Task 1 - Image Classification Model (CNN) ===")
+    print("=== Virtual Technologies Internship: AI Task 1 - Image Classification Model (CNN) ===")
     
     # 1. Load Fashion MNIST dataset
     print("Loading Fashion MNIST dataset...")

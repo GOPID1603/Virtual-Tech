@@ -7,7 +7,7 @@ import joblib
 import os
 
 def main():
-    print("=== CODTECH Internship: Task 3 - End-to-End Data Science Project (Training) ===")
+    print("=== Virtual Technologies Internship: Task 3 - End-to-End Data Science Project (Training) ===")
     
     # 1. Data Collection (Loading Iris dataset)
     print("Loading Iris dataset...")

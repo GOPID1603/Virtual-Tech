@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 def main():
-    print("=== CODTECH Internship: AI Task 2 - Real-Time Object Detection ===")
+    print("=== Virtual Technologies Internship: AI Task 2 - Real-Time Object Detection ===")
     
     # Load YOLOv8 pre-trained model
     # It will automatically download yolov8n.pt the first time

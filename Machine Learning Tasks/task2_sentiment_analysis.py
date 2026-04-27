@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 
 def main():
-    print("=== CODTECH Internship: Task 2 - Sentiment Analysis with NLP ===")
+    print("=== Virtual Technologies Internship: Task 2 - Sentiment Analysis with NLP ===")
     
     # 1. Create a synthetic dataset of customer reviews
     print("Generating customer reviews dataset...")

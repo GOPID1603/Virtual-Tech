@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 def main():
-    print("=== CODTECH Internship: Task 4 - Recommendation System ===")
+    print("=== Virtual Technologies Internship: Task 4 - Recommendation System ===")
     
     # 1. Create a synthetic User-Item Rating Matrix (Collaborative Filtering)
     # Rows are users, Columns are movies, Values are ratings (0 means unrated)

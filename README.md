@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lZjVudmVybW1lNGFhNjZsdTJnbHVzNGVlMjd2bmNvdnEzM2RpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=CODTECH+Internship+Projects;Data+Science+%7C+Machine+Learning+%7C+AI;Built+by+GOPID1603" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=Virtual Technologies+Internship+Projects;Data+Science+%7C+Machine+Learning+%7C+AI;Built+by+GOPID1603" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🌟 About This Repository
 
-Welcome to my **Virtual Tech CODTECH Internship** portfolio! 🚀 This repository showcases all the high-quality projects and tasks I completed during my internship, spanning across three core domains: **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
+Welcome to my **Virtual Technologies Internship** portfolio! 🚀 This repository showcases all the high-quality projects and tasks I completed during my internship, spanning across three core domains: **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
 
 Everything here is thoroughly documented, fully functional, and visually represented! ✨
 
@@ -96,5 +96,5 @@ python task3_sentiment_dashboard.py # Example: Run the Streamlit Dashboard
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="80" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="80" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=f39c12&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting!+🌟;Developed+during+the+CODTECH+Internship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=f39c12&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting!+🌟;Developed+during+the+Virtual Technologies+Internship" alt="Typing SVG" />
 </div>

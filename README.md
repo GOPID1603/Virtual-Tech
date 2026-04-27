@@ -70,6 +70,14 @@ This module explores modern AI applications including real-time detection and in
 2. 🎥 **Real-time Object Detection**: A computer vision script leveraging **YOLOv8** to identify and bound objects in real-time via webcam.
 3. 📊 **Sentiment Analysis Dashboard**: A beautiful, interactive web application built with **Streamlit** and **TextBlob** for instant NLP analysis.
 4. 🍿 **Content-Based Recommendation Engine**: A movie recommendation system using NLP (TF-IDF) to analyze descriptions and suggest similar films.
+5. 🤖 **Generative AI Text Model**: A sophisticated text generation script utilizing HuggingFace `transformers` and the GPT-2 language model to generate creative text dynamically.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 CI/CD & Deployment Ready
+- ✨ **GitHub Actions**: Automated syntax testing on every push (`.github/workflows/python-tests.yml`).
+- 📦 **Requirements**: A robust `requirements.txt` is included for 1-click environment setup.
+- ☁️ **Cloud Prepared**: Includes a `Procfile` ready for instant deployment to Render or Heroku.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
